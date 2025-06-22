@@ -1,7 +1,11 @@
 <h1 align="center"> João Lucas | Desenvolvedor de Software </h1>
 
-## 👋 Olá, sou João Lucas!
-🧑‍💻 Desenvolvedor de Software com interesse em **Sistemas Embarcados, Web, Dados e IoT**  
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
+  Olá, sou João Lucas!
+</h2>
+
+🧑‍💻 Desenvolvedor de Software com interesse em **Sistemas Embarcados, Web, Machine Learning e IoT**  
 🎓 Estudante de **Engenharia da Computação** na UFC  
 🚀 Curioso, sempre buscando desafios e novos aprendizados
 
@@ -20,15 +24,14 @@
 
 ## 🧰 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ## 📫 Contato
 
-📧 Email: jlucasoliveira2002@gmail.com
-💼 LinkedIn: [João Lucas][(https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/jlucasoliv/))  
-
+📧 Email: jlucasoliveira2002@gmail.com  
+💼 LinkedIn: [João Lucas](https://www.linkedin.com/in/jlucasoliv/)
