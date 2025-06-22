@@ -1,13 +1,20 @@
-<h1 align="center"> João Lucas | Desenvolvedor de Software </h1>
+<p align="center">
+  <a href="https://github.com/jlucasoliv">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&pause=1000&color=F1C40F&background=1A1A1A00&vCenter=true&multiline=true&width=700&height=100&lines=Jo%C3%A3o+Lucas+%7C+Desenvolvedor+de+Software" alt="Typing SVG"/>
+  </a>
+</p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align: middle;" />
-  Olá, sou João Lucas!
-</h2>
 
-🧑‍💻 Desenvolvedor de Software com interesse em **Sistemas Embarcados, Web, Machine Learning e IoT**  
-🎓 Estudante de **Engenharia da Computação** na UFC  
-🚀 Curioso, sempre buscando desafios e novos aprendizados
+
+---
+
+<h1 align="left">👋 Olá, sou João Lucas!</h1>
+
+<p align="center">
+  💻 Desenvolvedor de Software com interesse em <strong>Web, Dados, IoT e Sistemas Embarcados</strong> <br/>
+  🎓 Estudante de <strong>Engenharia da Computação</strong> na UFC <br/>
+  🚀 Curioso, apaixonado por desafios e aprendizado contínuo!
+</p>
 
 ---
 
