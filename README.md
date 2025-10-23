@@ -6,9 +6,6 @@
 
 
 
----
-
-<h1 align="left">👋 Olá, sou João Lucas!</h1>
 
 <p align="center">
   💻 Desenvolvedor de Software com interesse em <strong>Web, Dados, IoT e Sistemas Embarcados</strong> <br/>
