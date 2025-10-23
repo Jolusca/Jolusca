@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/jlucasoliv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&pause=1000&color=F1C40F&background=1A1A1A00&vCenter=true&multiline=true&width=700&height=100&lines=Jo%C3%A3o+Lucas+%7C+Desenvolvedor+de+Software" alt="Typing SVG"/>
-  </a>
-</p>
+
 
 
 
