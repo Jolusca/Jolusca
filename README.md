@@ -6,7 +6,6 @@
 <p align="center">
   💻 Desenvolvedor de Software com interesse em <strong>Web, Dados, IoT e Sistemas Embarcados</strong> <br/>
   🎓 Estudante de <strong>Engenharia da Computação</strong> na UFC <br/>
-  🚀 Curioso, apaixonado por desafios e aprendizado contínuo!
 </p>
 
 ---
