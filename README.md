@@ -15,11 +15,14 @@
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvimento Web com **React, Node.js, HTML, CSS**
-- 📊 Projetos com **Ciência de Dados, Estatística e Machine Learning**
-- 📷 Visão Computacional com **Python, C e Java**
 - 💾 Experiência com **Pandas, R**
 - 🔧 Sistemas Embarcados com **C/C++, Arduino, ESP32**
+-  📊 Projetos com **Ciência de Dados, Estatística e Machine Learning**
+- 💻 Desenvolvimento Web com **React, Node.js, HTML, CSS**
+
+- 📷 Visão Computacional com **Python, C e Java**
+
+
 - 🧠 Foco em práticas ágeis, organização e aprendizado contínuo
 
 ---
